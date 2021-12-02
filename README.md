@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/delba/Permission/raw/assets/Permission@2x.png">
 </p>
-
 <p align="center">
   <a href="https://travis-ci.org/delba/Permission"><img alt="Travis Status" src="https://img.shields.io/travis/delba/Permission.svg"/></a>
   <a href="https://img.shields.io/cocoapods/v/Permission.svg"><img alt="CocoaPods compatible" src="https://img.shields.io/cocoapods/v/Permission.svg"/></a>
